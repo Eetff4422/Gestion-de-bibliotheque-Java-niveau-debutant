@@ -5,7 +5,7 @@ FROM openjdk:17-jdk-slim
 WORKDIR /app
 
 # Copier le fichier JAR généré dans le conteneur
-COPY target/myartifactid-0.0-SNAPSHOT.jar app.jar
+COPY target/myartifactid-0.0-SNAPSHOT.jar
 
 # Exposer le port (par défaut 8080 si c’est un projet Spring Boot ou similaire)
 EXPOSE 8080
