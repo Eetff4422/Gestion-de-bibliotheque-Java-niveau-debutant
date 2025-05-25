@@ -1,8 +1,3 @@
-
-Voici un README amélioré pour ton projet, prenant en compte les classes que tu as créées et leur structure.
-
-markdown
-Copy code
 # Gestionnaire de Bibliothèque
 
 ## Description
